@@ -1,0 +1,12 @@
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Windows folder config file
+Desktop.ini
+
+# Windows recycle bin used on file shares
+$RECYCLE.BIN/
+
+# Mac desktop service store files
+.DS_Store
